@@ -43,7 +43,7 @@ cd Toy-Sales-Forecasting-Project
 pip install -r requirements.txt
 ```
 3. Launch Jupyter Notebook
-4. Open `analysis.ipynb` and enjoy the magic! 🎩
+4. Open `toy_sales_analysis.ipynb` and enjoy the magic! 🎩
 
 ## 📸 Showcase
 
